@@ -1,2 +1,2 @@
 # Analysis-of-Covid-19-cases-in-different-states-UT-of-India-using-Linear-Regression
-ML bases Minor Project
+ML based Minor Project
